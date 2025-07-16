@@ -19,7 +19,7 @@ A fully functional, responsive frontend clone of a Gemini-style conversational A
 
 ## Live Demo
 
-[View Live Demo on Vercel](https://.vercel.app)
+[View Live Demo on Vercel](https://joyful-puffpuff-b0f5e7.netlify.app/)
 
 ## Tech Stack
 

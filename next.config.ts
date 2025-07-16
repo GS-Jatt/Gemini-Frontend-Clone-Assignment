@@ -1,10 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  experimental: {
-  },
+  output: "export",
+  experimental: {},
   images: {
-    domains: ['restcountries.com'],
+    domains: ["restcountries.com"],
   },
 };
 
